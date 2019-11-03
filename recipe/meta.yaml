@@ -28,7 +28,8 @@ test:
 
 about:
   home: http://tinycss.readthedocs.io/
-  license: BSD 3-Clause
+  license: BSD-3-Clause
+  license_file: LICENSE
   summary: 'Tinycss is a complete yet simple CSS parser for Python.'
   license_family: BSD
 
